@@ -1,6 +1,7 @@
 ---
 title: Интерфейсы
 sidebar_position: 2
+description: Вопросы по интерфейсам в Golang
 ---
 
 ## Что такое интерфейс?

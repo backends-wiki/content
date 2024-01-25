@@ -1,6 +1,7 @@
 ---
 title: Хеш-мапы
 sidebar_position: 1
+description: Вопросы по хеш-мапам в Golang
 ---
 
 ## Что такое мапа?

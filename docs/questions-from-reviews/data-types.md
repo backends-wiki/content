@@ -1,5 +1,6 @@
 ---
 title: Типы данных
+description: Вопросы по типам данных в Golang
 sidebar_position: 4
 ---
 
