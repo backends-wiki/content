@@ -9,7 +9,7 @@ const config: Config = {
 
   // Set the production url of your site here
   url: 'https://golangreview.ru',
-  baseUrl: '/golangreview',
+  baseUrl: 'https://golangreview.ru/',
 
   organizationName: 'golangreview', // Usually your GitHub org/user name.
   projectName: 'golangreview', // Usually your repo name.
