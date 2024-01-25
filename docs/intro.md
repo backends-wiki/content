@@ -18,3 +18,5 @@ sidebar_position: 1
 - Создать пулл реквест
 
 Либо создать [issue](https://github.com/golangreview/golangreview/issues) с описанием ошибки или нового вопроса, желательно с ответом или примерами кода.
+
+Так же не забываем, о моральной помощи в виде звездочки у [репозитория](https://github.com/golangreview/golangreview) ⭐️
