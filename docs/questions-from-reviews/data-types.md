@@ -1,7 +1,7 @@
 ---
 title: Типы данных
 description: Вопросы по типам данных в Golang
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 ## Что такое type switch?

@@ -1,6 +1,6 @@
 ---
 title: Пакеты
-sidebar_position: 3
+sidebar_position: 4
 description: Вопросы по пакетам в Golang
 ---
 
