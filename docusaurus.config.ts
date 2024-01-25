@@ -3,16 +3,15 @@ import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Golang Knowledge Bases',
+  title: 'Общедоступная база знаний по Golang',
   tagline: 'Общедоступная база знаний по Golang',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
   url: 'https://golangreview.ru',
   baseUrl: '/',
 
-  organizationName: 'golangreview', // Usually your GitHub org/user name.
-  projectName: 'golangreview', // Usually your repo name.
+  organizationName: 'golangreview',
+  projectName: 'golangreview',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
