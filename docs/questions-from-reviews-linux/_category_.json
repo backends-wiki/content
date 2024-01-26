@@ -1,6 +1,6 @@
 {
-  "label": "Вопросы с собеседований",
-  "position": 2,
+  "label": "Вопросы с собеседований связанные с Linux",
+  "position": 3,
   "link": {
     "type": "generated-index",
     "description": "Вопросы с собеседований, разбитые по темам"
