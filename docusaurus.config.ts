@@ -30,6 +30,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          editUrl: 'https://github.com/golangreview/golangreview/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
