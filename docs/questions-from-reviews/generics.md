@@ -25,7 +25,7 @@ description: Вопросы по дженерикам.
 Например, если мы имеем такую дженерическую функцию:
 
 ```go
-func Map[F, T any](s T) []T {
+func Map[F, T any](s T, f F) []T {
   r := make([]T, len(s))
   for i, v := range s {
     r[i] = f(v)
