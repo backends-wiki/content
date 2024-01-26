@@ -18,7 +18,13 @@ const config: Config = {
 
   plugins: [[require.resolve('docusaurus-lunr-search'), {
     languages: ['ru']
-  }]],
+  }], [
+    '@docusaurus/plugin-google-gtag',
+    {
+      trackingID: 'G-8Z14GZ90VD',
+      anonymizeIP: true,
+    },
+  ],],
 
   i18n: {
     defaultLocale: 'ru',
