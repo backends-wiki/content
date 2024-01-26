@@ -25,7 +25,7 @@ description: Вопросы по дженерикам.
 Например, если мы имеем такую дженерическую функцию:
 
 ```go
-func MapF, T any T) []T {
+func Map[F, T any](s T) []T {
   r := make([]T, len(s))
   for i, v := range s {
     r[i] = f(v)
@@ -69,3 +69,4 @@ t := Map_int_string(s, f)
 Источники: 
 - [Habr](https://habr.com/ru/companies/karuna/articles/552944/)
 - [Habr](https://habr.com/ru/companies/skillfactory/articles/657853/)
+
