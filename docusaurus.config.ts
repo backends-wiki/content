@@ -20,10 +20,13 @@ const config: Config = {
     languages: ['ru']
   }],
   ],
-
+  themes: ['@docusaurus/theme-mermaid'],
   i18n: {
     defaultLocale: 'ru',
     locales: ['ru'],
+  },
+  markdown: {
+    mermaid: true,
   },
   presets: [
     [
