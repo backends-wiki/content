@@ -17,8 +17,8 @@ description: Вопросы по планировщику Golang и OS.
 Планировщик Go использует алгоритм work stealing для балансировки нагрузки между P. Если LRQ одного P пуста, он может попытаться украсть горутину из LRQ или GRQ другого P. Это позволяет эффективно использовать ресурсы и избегать простоя.
 
 Источники:
-- [Habr](https://habr.com/ru/articles/489862/)
 - [Habr](https://habr.com/ru/articles/478168/)
+- [Habr](https://habr.com/ru/articles/489862/)
 - [Backend Interview](https://backendinterview.ru/goLang/scheduler.html)
 
 ## В чем разница между вытесняющим и кооперативным планировщиком?
