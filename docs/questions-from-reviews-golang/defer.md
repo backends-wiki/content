@@ -30,12 +30,12 @@ import "fmt"
 
 func main() {
     defer fmt.Println(changePointer())
-    fmt.Println("First")
+    fmt.Println("Third")
 }
 
 func changePointer() string {
-    defer fmt.Println("Third")
-    fmt.Println("Second")
+    defer fmt.Println("Second")
+    fmt.Println("First")
     return "Fourth"
 }
 ```
