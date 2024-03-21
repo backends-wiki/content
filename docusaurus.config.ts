@@ -5,6 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Общедоступная база знаний по Golang',
   tagline: 'Общедоступная база знаний по Golang',
+
   favicon: 'img/favicon.ico',
 
   url: 'https://golangreview.ru',
