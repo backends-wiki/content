@@ -60,7 +60,8 @@ const config: Config = {
           label: 'База знаний',
         },
         {
-          type: 'localeDropdown',
+          href: 'https://t.me/golangreview',
+          label: 'Telegram-чат',
           position: 'right',
         },
         {
