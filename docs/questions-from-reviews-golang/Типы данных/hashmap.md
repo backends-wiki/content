@@ -1,6 +1,6 @@
 ---
 title: Хеш-мапы
-sidebar_position: 2
+sidebar_position: 1
 description: Вопросы по хеш-мапам в Golang
 ---
 

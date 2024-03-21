@@ -1,6 +1,6 @@
 ---
 title: Структуры
-sidebar_position: 15
+sidebar_position: 4
 description: Вопросы по структурам
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Строки
-sidebar_position: 9
+sidebar_position: 3
 description: Вопросы по строкам в Golang.
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Массивы и слайсы
-sidebar_position: 10
+sidebar_position: 2
 description: Вопросы по массивам и слайсам.
 ---
 
