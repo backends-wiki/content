@@ -1,6 +1,6 @@
 ---
 title: Docker
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ## Чем контейнеризация отличается от виртуализации?

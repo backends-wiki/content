@@ -1,6 +1,6 @@
 ---
 title: Базы данных (реляционные)
-sidebar_position: 1
+sidebar_position: 2
 description: Вопросы по реляционным базам данных
 ---
 

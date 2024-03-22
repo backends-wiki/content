@@ -1,6 +1,6 @@
 ---
 title: Kubernetes (k8s)
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 ## Что такое Kubernetes
