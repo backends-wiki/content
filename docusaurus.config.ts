@@ -1,6 +1,7 @@
 import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
+import tailwindPlugin from "./plugins/tailwind-config.cjs";
 
 const config: Config = {
   title: 'Общедоступная база знаний по Golang',
@@ -17,7 +18,7 @@ const config: Config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  plugins: [[require.resolve('docusaurus-lunr-search'), {
+  plugins: [tailwindPlugin,[require.resolve('docusaurus-lunr-search'), {
     languages: ['ru']
   }],
   ],
