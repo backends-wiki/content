@@ -40,7 +40,7 @@ const config: Config = {
         },
         docs: {
           sidebarPath: './sidebars.ts',
-          editUrl: 'https://github.com/golangreview/golangreview/tree/main',
+          editUrl: 'https://github.com/pers0na2dev/golangreview/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,7 +66,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/golangreview/golangreview',
+          href: 'https://github.com/pers0na2dev/golangreview',
           label: 'GitHub',
           position: 'right',
         },
