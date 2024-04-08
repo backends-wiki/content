@@ -61,6 +61,12 @@ const config: Config = {
           label: 'База знаний',
         },
         {
+          type: 'docSidebar',
+          sidebarId: 'terminologySidebar',
+          position: 'left',
+          label: 'Терминология',
+        },
+        {
           href: 'https://t.me/golangreview',
           label: 'Telegram-чат',
           position: 'right',
