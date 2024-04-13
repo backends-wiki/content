@@ -22,8 +22,8 @@ function HomepageHeader() {
           </Link>
            <Link
             className="button button--secondary button--lg"
-            to="/docs/termins/intro">
-            Терминология
+            to="/docs/slang/intro">
+            IT-сленг
           </Link>
         </div>
       </div>
@@ -39,7 +39,7 @@ export default function Home(): JSX.Element {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-       
+
       </main>
     </Layout>
   );

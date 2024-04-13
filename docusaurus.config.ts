@@ -62,9 +62,9 @@ const config: Config = {
         },
         {
           type: 'docSidebar',
-          sidebarId: 'terminologySidebar',
+          sidebarId: 'slangSidebar',
           position: 'left',
-          label: 'Терминология',
+          label: 'IT-сленг',
         },
         {
           href: 'https://t.me/golangreview',
