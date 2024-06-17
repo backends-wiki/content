@@ -1,0 +1,27 @@
+name: 'update-content'
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: 'content'
+          target-directory: 'content'
+          destination-github-username: 'backends-wiki'
+          destination-repository-name: 'website'
+          user-email: auto-update@backends.wiki
+          target-branch: main

@@ -1,0 +1,8 @@
+{
+  "label": "Вопросы по Linux",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Вопросы с собеседований, разбитые по темам"
+  }
+}
