@@ -1,7 +1,5 @@
 ---
 title: Ошибки / Panic
-sidebar_position: 16
-description: Вопросы по ошибкам и паникам
 ---
 
 ## Что такое паника?

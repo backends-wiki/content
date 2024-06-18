@@ -1,7 +1,5 @@
 ---
 title: Гонка данных
-sidebar_position: 14
-description: Вопросы по гонке данных
 ---
 
 ## Что такое race condition?

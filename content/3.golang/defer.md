@@ -1,7 +1,5 @@
 ---
 title: Defer
-sidebar_position: 6
-description: Вопросы по работе с defer в Golang
 ---
 
 ## Что такое defer, как работает, зачем нужен?

@@ -1,7 +1,5 @@
 ---
 title: Пакеты
-sidebar_position: 4
-description: Вопросы по пакетам в Golang
 ---
 
 ## Что такое пакет?

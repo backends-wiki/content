@@ -1,7 +1,5 @@
 ---
 title: Планировщик
-sidebar_position: 8
-description: Вопросы по планировщику Golang и OS.
 ---
 
 ## Как работает планировщик в Golang?
